@@ -1,0 +1,9 @@
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.Form1.resources
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.Resources.resources
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.vbproj.GenerateResource.Cache
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\bin\Debug\latihan1.exe
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\bin\Debug\latihan1.pdb
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\bin\Debug\latihan1.xml
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.exe
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.xml
+D:\ObjectOrientedProgramming\Reguler\latihan1\latihan1\obj\x86\Debug\latihan1.pdb
